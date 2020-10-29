@@ -1,5 +1,6 @@
 # Hi, I'm Piotr 👋🏾‍💻 
 
+#java #scala #golang 
 <!--
 **ventotto/ventotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
