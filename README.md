@@ -9,16 +9,16 @@
 </p>  
 <p align="center">
    <a href="https://www.linkedin.com/in/piotrbojnowski/">
-     <img align="left" alt="Piotr's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+     <img alt="Piotr's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
    <a href="https://www.xing.com/profile/Piotr_Bojnowski/cv">
-     <img align="left" alt="Piotr's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
+     <img alt="Piotr's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
    </a>
    <a href="https://github.com/ventotto">
-     <img align="left" alt="Piotr's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+     <img alt="Piotr's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
    </a>
    <a href="https://t.me/piotrbojnowski">
-     <img align="left" alt="Piotr's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+     <img alt="Piotr's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
    </a>
 </p>
 
