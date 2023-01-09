@@ -17,9 +17,10 @@
    <a href="https://github.com/ventotto">
      <img alt="Piotr's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
    </a>
-   <a href="https://t.me/piotrbojnowski">
-     <img alt="Piotr's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+   <a href="https://leetcode.com/ventotto">
+     <img alt="Piotr's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
    </a>
+
 </p>
 
 <!--
