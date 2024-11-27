@@ -1,6 +1,6 @@
 # Hi, I'm Piotr 👋🏾‍💻 
 
-#java #scala #golang 
+#java 
 
 
 <hr \>
@@ -17,9 +17,9 @@
    <a href="https://github.com/ventotto">
      <img alt="Piotr's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
    </a>
-   <a href="https://leetcode.com/ventotto">
+<!--    <a href="https://leetcode.com/ventotto">
      <img alt="Piotr's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-   </a>
+   </a> -->
 
 </p>
 
